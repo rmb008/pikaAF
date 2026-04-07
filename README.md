@@ -1,5 +1,7 @@
 # pikaAF
 Project for bioacoustics-based identification of individual pikas via an acoustic 'fingerprint'
+[Spreadsheet link for information on tagged pikas
+]([url](https://docs.google.com/spreadsheets/d/199ymlz9gcwdwsxgmOXBZ1JYGxt7no49p5HmRLnCtPFE/edit?usp=sharing))
 
 ## Description
 This repo contains primarily ~0.1-05s pika short calls (.WAV) from tagged and untagged pikas on and around Niwot Ridge, CO collected in 2025. Pikas were observed and recorded with ARUs (acoustic recording units) to obtain paired acoustic-visual data in 2025. Calls are extracted from longer audio recordings, and are in a directory pertaining to the study site and individual (e.g., /WK/PYGB/ contains calls from a pika tagged pink-yellow-green-blue (PYGB) on West Knoll). Calls from unknown/unconfirmed pikas are in the directory for the study site closest to which they were observed/recorded. 
